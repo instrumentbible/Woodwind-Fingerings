@@ -28,3 +28,5 @@ Features :
 - Record Audio, MIDI, or Video (great for lessons!)
 
 - Concert Pitch vs. Written Pitch
+
+[Download on the Mac App Store](https://apps.apple.com/us/app/woodwind-fingerings/id1438221907)
